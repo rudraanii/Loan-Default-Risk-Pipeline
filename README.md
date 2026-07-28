@@ -1,7 +1,5 @@
 # Loan Default Risk Prediction: End-to-End ML Pipeline
 
-machine-learning fastapi docker scikit-learn credit-risk python mlops
-
 A complete, production-shaped ML pipeline for predicting loan default risk:
 data generation → model training & comparison → REST API serving → Docker
 deployment. Built to demonstrate the full lifecycle expected of an ML
