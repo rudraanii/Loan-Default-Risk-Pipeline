@@ -1,4 +1,4 @@
-# Loan Default Risk Prediction — End-to-End ML Pipeline
+# Loan Default Risk Prediction: End-to-End ML Pipeline
 
 A complete, production-shaped ML pipeline for predicting loan default risk:
 data generation → model training & comparison → REST API serving → Docker
