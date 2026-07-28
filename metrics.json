@@ -1,0 +1,23 @@
+{
+  "best_model": "logistic_regression",
+  "results": {
+    "logistic_regression": {
+      "roc_auc": 0.9117,
+      "precision": 0.2776,
+      "recall": 0.9189,
+      "f1": 0.4263
+    },
+    "random_forest": {
+      "roc_auc": 0.9023,
+      "precision": 0.4468,
+      "recall": 0.5676,
+      "f1": 0.5
+    },
+    "gradient_boosting": {
+      "roc_auc": 0.9057,
+      "precision": 0.725,
+      "recall": 0.3919,
+      "f1": 0.5088
+    }
+  }
+}
